@@ -1,0 +1,8 @@
+C:\Users\danny\Desktop\Code\C Sharpe Practice\C Sharpe Practice\bin\Debug\C Sharpe Practice.exe.config
+C:\Users\danny\Desktop\Code\C Sharpe Practice\C Sharpe Practice\bin\Debug\C Sharpe Practice.exe
+C:\Users\danny\Desktop\Code\C Sharpe Practice\C Sharpe Practice\bin\Debug\C Sharpe Practice.pdb
+C:\Users\danny\Desktop\Code\C Sharpe Practice\C Sharpe Practice\obj\Debug\C Sharpe Practice.csproj.AssemblyReference.cache
+C:\Users\danny\Desktop\Code\C Sharpe Practice\C Sharpe Practice\obj\Debug\C Sharpe Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\danny\Desktop\Code\C Sharpe Practice\C Sharpe Practice\obj\Debug\C Sharpe Practice.csproj.CoreCompileInputs.cache
+C:\Users\danny\Desktop\Code\C Sharpe Practice\C Sharpe Practice\obj\Debug\C Sharpe Practice.exe
+C:\Users\danny\Desktop\Code\C Sharpe Practice\C Sharpe Practice\obj\Debug\C Sharpe Practice.pdb
